@@ -24,6 +24,7 @@ echo "le résultat de l'addition 5+8 est : ".$resultat. "<br>";
 
 echo "le résultat de l'addition  7+8 est : ".(7+8). "<br>";
 echo "le résultat de l'addition  7+8 est : ".(7+8). "<br>";
+var_dump(false||true);
    ?>
 </body>
 
